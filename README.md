@@ -136,3 +136,8 @@ Both outputs are saved in the `output/` directory.
 This project presents a **robust, generalized, and training-free solution** for identity card boundary detection.
 By leveraging a pretrained YOLO-based detector, the system performs reliably under challenging real-world conditions and is well-suited for validation on unseen datasets.
 
+
+Below are some screenshots:
+<img width="1366" height="768" alt="Screenshot (257)" src="https://github.com/user-attachments/assets/a6bffcfb-6b0f-4fd5-8afd-1a8f57bd32fd" />
+
+<img width="1366" height="768" alt="Screenshot (256)" src="https://github.com/user-attachments/assets/59faff66-f2ca-4489-8aca-26f07cc4dd38" />
